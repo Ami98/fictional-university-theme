@@ -1,4 +1,4 @@
-<footer class="site-footers">
+<footer class="site-footer">
 
   <div class="site-footer__inner container container--narrow">
 
