@@ -13,7 +13,7 @@ pageBanner(
 <div class="container container--narrow page-section">
     <ul class="link-list min-list">
 
-        <div class="acf-mapp">
+        <div class="acf-map">
 
             <?php
             while (have_posts()) {
