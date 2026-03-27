@@ -33,4 +33,5 @@ pageBanner(
         </div>
     </ul>
     <!-- //use for testingg -->
+    <!-- ANother comment -->
     <?php get_footer(); ?>
