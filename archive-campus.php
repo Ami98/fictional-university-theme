@@ -33,4 +33,5 @@ pageBanner(
         </div>
     </ul>
     <!-- //use for testingg -->
+    <!-- <another line of code from branch "archive-update" -->
     <?php get_footer(); ?>
