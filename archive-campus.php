@@ -1,4 +1,5 @@
 <?php
+
 get_header();
 pageBanner(
     array(
@@ -6,11 +7,14 @@ pageBanner(
         'subtitle' => 'We have several conveniently located campuses.',
     )
 );
+
 ?>
 
 <div class="container container--narrow page-section">
     <ul class="link-list min-list">
+
         <div class="acf-map">
+
             <?php
             while (have_posts()) {
                 the_post(); ?>
@@ -28,4 +32,5 @@ pageBanner(
 
         </div>
     </ul>
+
     <?php get_footer(); ?>
