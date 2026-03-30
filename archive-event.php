@@ -45,7 +45,7 @@ pageBanner(array(
         $comingEvents->the_post();
         get_template_part('template-parts/content', 'event');
     }
-
+// pagination
     echo paginate_links(array(
         'total'   => $comingEvents->max_num_pages,
         'current' => $paged
