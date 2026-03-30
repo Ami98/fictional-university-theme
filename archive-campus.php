@@ -1,5 +1,4 @@
 <?php
-
 get_header();
 pageBanner(
     array(
@@ -11,9 +10,7 @@ pageBanner(
 
 <div class="container container--narrow page-section">
     <ul class="link-list min-list">
-
         <div class="acf-map">
-
             <?php
             while (have_posts()) {
                 the_post(); ?>
@@ -31,10 +28,4 @@ pageBanner(
 
         </div>
     </ul>
-<<<<<<< HEAD
-
     <?php get_footer(); ?>
-=======
-   
-    <?php get_footer(); ?>
->>>>>>> 0eaebfa1ee3da73296fc953f93d3642995c7923a
