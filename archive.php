@@ -51,7 +51,7 @@ pageBanner(array(
 
         </div>
     <?php }
-    // add pagination
+<!---- add pagination  -->
     echo paginate_links();
     ?>
 </div>
