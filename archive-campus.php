@@ -31,5 +31,10 @@ pageBanner(
 
         </div>
     </ul>
+<<<<<<< HEAD
 
     <?php get_footer(); ?>
+=======
+   
+    <?php get_footer(); ?>
+>>>>>>> 0eaebfa1ee3da73296fc953f93d3642995c7923a
