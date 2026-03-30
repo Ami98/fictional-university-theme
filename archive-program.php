@@ -1,5 +1,4 @@
 <?php
-
 get_header();
 pageBanner(
     array(
@@ -7,11 +6,7 @@ pageBanner(
         'subtitle' => 'There is something for everyone. Have a look around.',
     )
 );
-
 ?>
-
-
-
 <div class="container container--narrow page-section">
     <ul class="link-list min-list">
 
