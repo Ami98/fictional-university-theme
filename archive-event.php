@@ -21,7 +21,7 @@ pageBanner(array(
         Both handled Works everywhere ✅ 
     */
 
-
+    // pagination
     /*  $paged = get_query_var('paged') ? get_query_var('paged') : (get_query_var('page') ? get_query_var('page') : 1);
 
     $comingEvents = new WP_Query(array(
