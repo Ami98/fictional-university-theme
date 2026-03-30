@@ -5,9 +5,9 @@ while (have_posts()) {
     the_post();
     pageBanner();
 ?>
-    
+
     <div class="container container--narrow page-section">
-        
+
         <div class="generic-content">
             <div class="row group">
                 <div class="one-third"><?php the_post_thumbnail('professorPortrait'); ?></div>
@@ -39,5 +39,4 @@ while (have_posts()) {
 <?php }
 
 get_footer();
-
 ?>
