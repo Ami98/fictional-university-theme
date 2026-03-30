@@ -1,6 +1,6 @@
 <?php
-
 get_header();
+
 pageBanner(array(
   'title' => 'Welcome to our blog!',
   'subtitle' => 'Keep up with our latest news.'
@@ -40,6 +40,4 @@ pageBanner(array(
   ?>
 </div>
 
-<?php get_footer();
-
-?>
+<?php get_footer(); ?>
