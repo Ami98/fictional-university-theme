@@ -6,7 +6,7 @@
         <h1 class="headline headline--large">HEllo ... Welcome!</h1>
         <!-- <textarea name="abc" id="abc"></textarea> -->
         <h2 class="headline headline--medium">We think you&rsquo;ll like it here.</h2>
-        <h3 class="Why don't you check out the <strong>major</strong> you&rsquo;re interested in?</h3>
+        <h3 class="headline headline--small">Why don&rsquo;t you check out the <strong>major</strong> you&rsquo;re interested in?</h3>
         <a href=" <?php echo get_post_type_archive_link('program'); ?>" class="btn btn--large btn--blue">Find Your Major</a>
     </div>
 </div>
